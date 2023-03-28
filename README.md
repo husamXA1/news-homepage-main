@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://husamxa1.github.io/news-homepage-main/)
+- Live Site URL: [News homepage](https://husamxa1.github.io/news-homepage-main/)
 
 ## Author
 
