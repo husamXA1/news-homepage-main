@@ -80,9 +80,11 @@ nav a:hover {
         transition: 0.3s;
         transform: scaleY(0);
         transform-origin: 50% 0;
+        display: none;
     }
     nav ul.active {
         transform: scaleY(1);
+        display: flex;
     }
     nav ul li {
         margin: 10px;
